@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Stranger Things",
+      "img_url": "https://wallpapers.com/images/featured/stranger-things-pictures-7fj1jv6tvf3izh0t.jpg",
+      "rating": 8.7,
+      "description": "A group of young friends in the 1980s uncover supernatural mysteries and secret government experiments in their small town.",
+      "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Finn Wolfhard"],
+      "genre": ["Drama", "Fantasy", "Horror"],
+      "watchurl": "https://www.netflix.com/title/80057281"
+    },
+    {
+      "id": 2,
+      "name": "Money Heist",
+      "img_url": "https://i.pinimg.com/474x/ae/a2/12/aea212575572799476430c0f1f9550a0.jpg",
+      "rating": 8.2,
+      "description": "A mastermind known as 'The Professor' leads a group of skilled criminals to carry out the biggest heist in Spanish history.",
+      "cast": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño", "Pedro Alonso"],
+      "genre": ["Crime", "Thriller", "Drama"],
+      "watchurl": "https://www.netflix.com/title/80192098"
+    },
+    {
+      "id": 3,
+      "name": "The Witcher",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxfCWie9WRTjfRezVbPJRCs6ly7KAh8dsLOA&s",
+      "rating": 8.1,
+      "description": "Geralt of Rivia, a monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+      "cast": ["Henry Cavill", "Freya Allan", "Anya Chalotra", "Joey Batey"],
+      "genre": ["Fantasy", "Action", "Adventure"],
+      "watchurl": "https://www.netflix.com/title/80189685"
+    },
+    {
+      "id": 4,
+      "name": "Dark",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tYQBu2Ee1ndgyE3SXzwaMqQgE0pOFZWtWQ&s",
+      "rating": 8.8,
+      "description": "A time-travel mystery unfolds in a small German town as the disappearance of two children exposes hidden secrets.",
+      "cast": ["Louis Hofmann", "Oliver Masucci", "Jördis Triebel", "Maja Schöne"],
+      "genre": ["Sci-Fi", "Mystery", "Drama"],
+      "watchurl": "https://www.netflix.com/title/80100172"
+    },
+    {
+      "id": 5,
+      "name": "Breaking Bad",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYzg-jAg8BLYLY-pQCGufhxTKLsLU__2ddw&s",
+      "rating": 9.5,
+      "description": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to build a drug empire.",
+      "cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris"],
+      "genre": ["Crime", "Drama", "Thriller"],
+      "watchurl": "https://www.netflix.com/title/70143836"
+    },
+    {
+      "id": 6,
+      "name": "Narcos",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknfCwyrjO6TTQ2YRGhKRmAIWKIq8rHy2Beg&s",
+      "rating": 8.8,
+      "description": "The rise and fall of the infamous drug lord Pablo Escobar and the war against his powerful cartel.",
+      "cast": ["Wagner Moura", "Pedro Pascal", "Boyd Holbrook", "Joanna Christie"],
+      "genre": ["Crime", "Drama", "Biography"],
+      "watchurl": "https://www.netflix.com/title/80025172"
+    },
+    {
+      "id": 7,
+      "name": "Squid Game",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_WednokBm4iJKqvSK7WMmZ-c8ZQ7kiW0Aw&s",
+      "rating": 8.0,
+      "description": "Hundreds of cash-strapped contestants accept an invitation to compete in deadly children's games for a tempting prize.",
+      "cast": ["Lee Jung-jae", "Park Hae-soo", "Jung Ho-yeon", "Wi Ha-joon"],
+      "genre": ["Thriller", "Drama", "Survival"],
+      "watchurl": "https://www.netflix.com/title/81040344"
+    },
+    {
+      "id": 8,
+      "name": "Peaky Blinders",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaH7N5ljdV19QlN-MXDk_4xYiztH9kYwpnw&s",
+      "rating": 8.8,
+      "description": "A gangster family epic set in 1919 Birmingham, England, following the Shelby crime family’s rise to power.",
+      "cast": ["Cillian Murphy", "Paul Anderson", "Helen McCrory", "Sophie Rundle"],
+      "genre": ["Crime", "Drama", "History"],
+      "watchurl": "https://www.netflix.com/title/80002479"
+    },
+    {
+      "id": 9,
+      "name": "Black Mirror",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75g5J-SdDQIBr3T4yq1w6vPq8W5ltwhdhyw&s",
+      "rating": 8.7,
+      "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations lead to unexpected consequences.",
+      "cast": ["Bryce Dallas Howard", "Hayley Atwell", "Domhnall Gleeson", "Daniel Kaluuya"],
+      "genre": ["Sci-Fi", "Thriller", "Drama"],
+      "watchurl": "https://www.netflix.com/title/70264888"
+    },
+    {
+      "id": 10,
+      "name": "You",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPKrL1ATjrKCKri7Fl55Uy-2OImw1lDPOxg&s",
+      "rating": 7.7,
+      "description": "A dangerously charming and obsessive man goes to extreme measures to insert himself into the lives of those he is fixated on.",
+      "cast": ["Penn Badgley", "Victoria Pedretti", "Elizabeth Lail", "Ambyr Childers"],
+      "genre": ["Thriller", "Crime", "Drama"],
+      "watchurl": "https://www.netflix.com/title/80211991"
+    }
+  ]
+  
