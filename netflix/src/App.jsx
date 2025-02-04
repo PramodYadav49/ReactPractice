@@ -4,6 +4,9 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import NetflixSeries from './Component/NetflixSeries'
 import { EvenHandling } from './Component/EvenHandling'
+import { EventProps } from './Component/EventProps'
+import { EventPropagation } from './Component/EventPropagation'
+import State from './Component/Hooks/State'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,7 +15,10 @@ function App() {
     <>
 
     {/* <NetflixSeries></NetflixSeries> */}
-    <EvenHandling ></EvenHandling>
+    {/* <EvenHandling ></EvenHandling> */}
+
+    {/* <EventPropagation></EventPropagation> */}
+    <State></State>
     </>
 
    
